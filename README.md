@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/59826580-ea06-456f-8b03-94e0b8f350d8
 _______________________________________________
 Scriptures Language Translation.
 
-https://github.com/user-attachments/assets/940b2a4f-e84e-4834-b572-fdf81c0d4ee7
+https://github.com/user-attachments/assets/7f779f96-41a1-4574-89e6-4d1457be848d
 
 ______________________________________________
 Asian Language Translation.
