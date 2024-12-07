@@ -11,7 +11,7 @@ Dependencies :- Web, devtools, ai-ollama.
 
 Project Management :- Maven.
 
-Ai-Model :- Gemma2:2b (size=2-Billion Parameter, Memory=1.6GB)
+Ai-Model :- Gemma2:2b (size=2 Billion Parameter, Memory=1.6GB)
 
 _______________________________________________
 
