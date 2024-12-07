@@ -5,7 +5,7 @@ To avoid the Training of a ML-Model which is more time consuming and less flexib
 project utilizes the SpringBoot with MVC to design UI. This project doesn't store any details or session managements, since it's just a tool with a new feature. 
 ________________________________________________
 # Project Configuration
-FrameWorks:- Spring-AI(V 1.0.0-M4), Spring-Boot(V3.4.0).   
+FrameWorks:- Spring-AI(V 1.0.0-M4), Spring-Boot(V3.4.0), Jsp(V2.2).   
 
 Dependencies :- Web, devtools, ai-ollama. 
 
